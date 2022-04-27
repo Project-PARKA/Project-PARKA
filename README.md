@@ -1,4 +1,4 @@
-![Alt text](Project-PARKA/parka-logo-files/PARKA-logo-white.png?raw=true "Title"
+![Alt text](parka-logo-files/PARKA-logo-white.png?raw=true "Title"
 # SXU-Software-Engineering
  Dev Team 2
  - Amr Alshatnawi
