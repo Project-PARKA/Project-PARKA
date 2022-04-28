@@ -1,4 +1,4 @@
-<img src="parka-logo-files/PARKA-logo-white.png" width="128"/>
+<img src="parka-logo-files/PARKA-logo-blk.png" width="128"/>
 
 # SXU-Software-Engineering
  Dev Team 2
